@@ -1,3 +1,914 @@
-{
-  "Department or Center": ["Centers/Institutes - American Organ Institute", "Centers/Institutes - Carl Albert Congressional Research and Studies Center", "Centers/Institutes - Center for Public Management", "Centers/Institutes - Center for Risk and Crisis Management", "Centers/Institutes - Center for Spatial Analysis", "Centers/Institutes - Center for Teaching Excellence", "Centers/Institutes - CIMMS - Cooperative Institute for Mesoscale Meteorological Studies", "Centers/Institutes - Laboratories of Molecular Anthropology and Microbiome Research", "Centers/Institutes - Oklahoma Biological Survey", "Centers/Institutes - Oklahoma Center for Neuroscience", "Centers/Institutes - Oklahoma Geological Survey", "Centers/Institutes - Oklahoma Water Survey", "Centers/Institutes - OU Supercomputing Center for Education & Research", "Centers/Institutes - South Central Climate Adaptation Science Center", "Col of Atmospheric and Geo Sci - Col of Atmospheric and Geo Sci - AGSC-Atmos/Geographic Sci", "Col of Atmospheric and Geo Sci - Geography & Environ Sustain - GEOG-Geog & Environ Sustain", "Col of Atmospheric and Geo Sci - Geography & Environ Sustain - GIS-Geographic Info Science", "Col of Atmospheric and Geo Sci - Geoinformatics - GIS-Geographic Info Science", "Col of Atmospheric and Geo Sci - Meteorology - METR-Meteorology", "Col of International Studies - Education Abroad - INTL-International Courses", "Col of International Studies - International and Area Studies - IAS-International & Area St", "College of Architecture - Architecture Division - ARCH-Architecture", "College of Architecture - Architecture Division - EN D-Environmental Design", "College of Architecture - College of Architecture - PDC-Planning, Design & Constr.", "College of Architecture - Construction Science - CNS-Construction Science", "College of Architecture - Interior Design - I D-Interior Design", "College of Architecture - Landscape Architecture - L A-Landscape Architecture", "College of Architecture - Regional and City Planning - RCPL-Regional & City Plan", "College of Arts and Sciences - African and African Am Studies - AFAM-African & African Am St", "College of Arts and Sciences - Anthropology - ANTH-Anthropology", "College of Arts and Sciences - Biology - BIOL-Biology", "College of Arts and Sciences - Biology - PBIO-Plant Biology", "College of Arts and Sciences - Biology - ZOO-Zoology", "College of Arts and Sciences - Biology-Micro & Plant Biology - BIOL-Biology", "College of Arts and Sciences - Chemistry and Biochemistry - CHEM-Chemistry", "College of Arts and Sciences - Classics and Letters - CL C-Classics", "College of Arts and Sciences - Classics and Letters - GRK-Greek", "College of Arts and Sciences - Classics and Letters - LAT-Latin", "College of Arts and Sciences - Classics and Letters - LTRS-Letters", "College of Arts and Sciences - College of Arts and Science - CAS-Coll of Arts & Sciences", "College of Arts and Sciences - College of Arts and Science - PHCH-Public & Community Health", "College of Arts and Sciences - Communication - COMM-Communication", "College of Arts and Sciences - Economics - ECON-Economics", "College of Arts and Sciences - English - ENGL-English", "College of Arts and Sciences - Environmental Studies - ENST-Environmental Studies", "College of Arts and Sciences - Environmental Studies - IPE-Intrdiscp Prsp Envirn", "College of Arts and Sciences - Film and Media Studies - FMS-Film and Media Studies", "College of Arts and Sciences - Film and Media Studies - FVS-Film and Media Studies", "College of Arts and Sciences - Health and Exercise Science - HES-Health and Exercise Sci", "College of Arts and Sciences - History - HIST-History", "College of Arts and Sciences - History of Science - HMS-Health, Med, & Society", "College of Arts and Sciences - History of Science - HSCI-History of Sciences", "College of Arts and Sciences - Human Relations - H R-Human Relations", "College of Arts and Sciences - Library and Info Studies - KM-Knowledge Management", "College of Arts and Sciences - Library and Info Studies - LIS-Library Information St", "College of Arts and Sciences - Mathematics - MATH-Mathematics", "College of Arts and Sciences - Medieval and Renaissance St - MRS-Medieval and Renaissance", "College of Arts and Sciences - Microbiology and Plant Biology - BOT-Botany", "College of Arts and Sciences - Microbiology and Plant Biology - MBIO-Microbiology", "College of Arts and Sciences - Microbiology and Plant Biology - PBIO-Plant Biology", "College of Arts and Sciences - Modern Lang, Lit and Ling - ARAB-Arabic", "College of Arts and Sciences - Modern Lang, Lit and Ling - CHIN-Chinese", "College of Arts and Sciences - Modern Lang, Lit and Ling - FR-French", "College of Arts and Sciences - Modern Lang, Lit and Ling - GERM-German", "College of Arts and Sciences - Modern Lang, Lit and Ling - HEBR-Hebrew", "College of Arts and Sciences - Modern Lang, Lit and Ling - ITAL-Italian", "College of Arts and Sciences - Modern Lang, Lit and Ling - JAPN-Japanese", "College of Arts and Sciences - Modern Lang, Lit and Ling - LING-Linguistics", "College of Arts and Sciences - Modern Lang, Lit and Ling - MLLL-Mod Lang, Lit & Ling", "College of Arts and Sciences - Modern Lang, Lit and Ling - PERS - Persian", "College of Arts and Sciences - Modern Lang, Lit and Ling - PORT-Portuguese", "College of Arts and Sciences - Modern Lang, Lit and Ling - RUSS-Russian", "College of Arts and Sciences - Modern Lang, Lit and Ling - SPAN-Spanish", "College of Arts and Sciences - Native American Studies - CHER-Cherokee", "College of Arts and Sciences - Native American Studies - CHOC-Choctaw", "College of Arts and Sciences - Native American Studies - CREK-Creek", "College of Arts and Sciences - Native American Studies - KIOW-Kiowa", "College of Arts and Sciences - Native American Studies - NAS-Native American Studies", "College of Arts and Sciences - Philosophy - PHIL-Philosophy", "College of Arts and Sciences - Physics and Astronomy - ASTR-Astronomy", "College of Arts and Sciences - Physics and Astronomy - PHYS-Physics", "College of Arts and Sciences - Political Science - NPNG-Nonprofit and Nongov Org", "College of Arts and Sciences - Political Science - P SC-Political Science", "College of Arts and Sciences - Psychology - ODYN-Organizational Dynamics", "College of Arts and Sciences - Psychology - PSY-Psychology", "College of Arts and Sciences - Religious Studies - RELS-Religious Studies", "College of Arts and Sciences - Social Work - S WK-Social Work", "College of Arts and Sciences - Sociology - SOC-Sociology", "College of Arts and Sciences - Women's and Gender Studies - LGBT-LGBTQ Studies", "College of Arts and Sciences - Women's and Gender Studies - W S-Women's Studies", "College of Arts and Sciences - Women's and Gender Studies - WGS-Women's & Gender Studies", "College of Engineering - Aerospace and Mechanical Engr - AME-Aerospace & Mechnical Engr", "College of Engineering - Biomedical Engineering - BIOE-Bioengineering", "College of Engineering - Biomedical Engineering - BME-Biomedical Engineering", "College of Engineering - Chem, Biological and Material - CH E-Chemical Engineering", "College of Engineering - Civil Engr and Environmental - CEES-Civil Engr & Environ Sci", "College of Engineering - Civil Engr and Environmental - E S-Environmental Science", "College of Engineering - College of Engineering - DSA-Data Science and Analytics", "College of Engineering - College of Engineering - ENGR-College of Engineering", "College of Engineering - College of Engineering - EPHY-Engineering Physics", "College of Engineering - Computer Science - C S-Computer Science", "College of Engineering - Electrical and Computer Engr - ECE-Electrical & Computer Eng", "College of Engineering - Electrical and Computer Engr - TCOM-Telecommunications", "College of Engineering - Industrial & Systems Engr - I E-Industrial Engineering", "College of Engineering - Industrial & Systems Engr - ISE-Industrial & Systems Engr", "College of Law - College of Law - ILAW-International Law", "College of Law - College of Law - LAW-Law", "College of Professional & Continuing Studies - Aviation - AVIA-Aviation", "College of Professional & Continuing Studies - Liberal Studies - LSAL-Adminstrative Leadership", "College of Professional & Continuing Studies - Liberal Studies - LSCJ-Criminal Justice", "College of Professional & Continuing Studies - Liberal Studies - LSCS-Cultural Studies", "College of Professional & Continuing Studies - Liberal Studies - LSHA-Lib Studies Health Admin", "College of Professional & Continuing Studies - Liberal Studies - LSIS-Integrated Studies", "College of Professional & Continuing Studies - Liberal Studies - LSLC-Lifespan Care & Admin", "College of Professional & Continuing Studies - Liberal Studies - LSMS-Museum Studies", "College of Professional & Continuing Studies - Liberal Studies - LSPS-Prevention Science", "College of Professional & Continuing Studies - Liberal Studies - LSTD-Liberal Studies", "College of Professional & Continuing Studies - PACS Dean's Office - DENG-Developmental Writing", "College of Professional & Continuing Studies - PACS Dean's Office - DMAT-Developmental Mathematics", "College of Professional & Continuing Studies - PACS Dean's Office - DRDG-Developmental Reading", "Gaylord College of JMC - Gaylord College of JMC - JMC-Journalism & Mass Comm", "Graduate College - Graduate College - GRAD-Graduate College", "Honors College - Honors College - HON-Honors College", "Jeannine Rainbolt Coll of Educ - College of Education - EDUC-College of Education", "Jeannine Rainbolt Coll of Educ - Educ Ldrshp and Policy St - EACS-Ed Admin,Curr & Suprvn", "Jeannine Rainbolt Coll of Educ - Educ Ldrshp and Policy St - EDAH-Adult and Higher Educ", "Jeannine Rainbolt Coll of Educ - Educ Ldrshp and Policy St - EDFN-Social Foundation of Educ", "Jeannine Rainbolt Coll of Educ - Educ Ldrshp and Policy St - EDS-Educational Studies", "Jeannine Rainbolt Coll of Educ - Education Psychology - EDPC-Professional Counseling", "Jeannine Rainbolt Coll of Educ - Education Psychology - EDPY-Educ & Counseling Psy", "Jeannine Rainbolt Coll of Educ - Education Psychology - EDSP-Special Education", "Jeannine Rainbolt Coll of Educ - Education Psychology - EIPT-Instruct Lead Psy & Tech", "Jeannine Rainbolt Coll of Educ - Instr Leadership and Acad Curr - EDEC-Early Childhood Educ", "Jeannine Rainbolt Coll of Educ - Instr Leadership and Acad Curr - EDEL-Elementary Education", "Jeannine Rainbolt Coll of Educ - Instr Leadership and Acad Curr - EDEN-English Education", "Jeannine Rainbolt Coll of Educ - Instr Leadership and Acad Curr - EDLT-Literacy Education", "Jeannine Rainbolt Coll of Educ - Instr Leadership and Acad Curr - EDMA-Mathematics Education", "Jeannine Rainbolt Coll of Educ - Instr Leadership and Acad Curr - EDRG-Reading Education", "Jeannine Rainbolt Coll of Educ - Instr Leadership and Acad Curr - EDSC-Science Education", "Jeannine Rainbolt Coll of Educ - Instr Leadership and Acad Curr - EDSE-Secondary Education", "Jeannine Rainbolt Coll of Educ - Instr Leadership and Acad Curr - EDSS-Social Studies Educ", "Jeannine Rainbolt Coll of Educ - Instr Leadership and Acad Curr - EDWL-World Language Education", "Jeannine Rainbolt Coll of Educ - Instr Leadership and Acad Curr - ILAC-Instr Lead & Acad Curr", "Mewbourne Col of Earth/Energy - Geology and Geophysics - GEOL-Geology", "Mewbourne Col of Earth/Energy - Geology and Geophysics - GPHY-Geophysics", "Mewbourne Col of Earth/Energy - Mewbourne Col of Earth/Energy - CEE-Coll of Earth & Energy", "Mewbourne Col of Earth/Energy - Petroleum and Geological Engr - G E-Geological Engineering", "Mewbourne Col of Earth/Energy - Petroleum and Geological Engr - P E-Petroleum Engineering", "OU - Information Technology (OU IT)", "OU - University Libraries", "OU Tulsa", "OU Tulsa - Office for Research Development & Scholarly Activity", "OU Tulsa - Schusterman Library", "OUHSC - Biostatistics and Epidemiology", "OUHSC - Health Sciences Center", "OUHSC - Pediatrics", "OUHSC - Pharmacy Science", "Price College of Business - Accounting - ACCT-Accounting", "Price College of Business - Energy Management - EMGT-Energy Management", "Price College of Business - Entreprenuer & Economic Dev - ENT-Entrepreneurship", "Price College of Business - Finance - ENGB-Energy for Business", "Price College of Business - Finance - FIN-Finance", "Price College of Business - Finance - L S-Legal Studies", "Price College of Business - Management & Internat Business - ENT-Entrepreneurship", "Price College of Business - Management & Internat Business - L S-Legal Studies", "Price College of Business - Management & Internat Business - MGT-Management", "Price College of Business - Management Information Systems - MIS-Management Info Systems", "Price College of Business - Management Information Systems - MIT-Management Info Technology", "Price College of Business - Marketing and Supply Chain Mgt - B C-Business  Communication", "Price College of Business - Marketing and Supply Chain Mgt - FRAN-Franchising", "Price College of Business - Marketing and Supply Chain Mgt - HCB-Health Care Business", "Price College of Business - Marketing and Supply Chain Mgt - L S-Legal Studies", "Price College of Business - Marketing and Supply Chain Mgt - MKT-Marketing", "Price College of Business - Marketing and Supply Chain Mgt - SCM-Supply Chain Management", "Price College of Business - Price College of Business - B AD-Business Administration", "Price College of Business - Price College of Business - B C-Business  Communication", "Price College of Business - Price College of Business - EMBA-Executive Energy MBA", "University College - UCOL- University College", "Weitzenhoffer Col of Fine Arts - Dance - DANC-Dance", "Weitzenhoffer Col of Fine Arts - Drama - DRAM-Drama", "Weitzenhoffer Col of Fine Arts - Music - BASN-Bassoon", "Weitzenhoffer Col of Fine Arts - Music - BASS-Bass", "Weitzenhoffer Col of Fine Arts - Music - CELO-Cello", "Weitzenhoffer Col of Fine Arts - Music - CLAR-Clarinet", "Weitzenhoffer Col of Fine Arts - Music - COMP-Composition", "Weitzenhoffer Col of Fine Arts - Music - EUPH-Euphonium", "Weitzenhoffer Col of Fine Arts - Music - FLUT-Flute", "Weitzenhoffer Col of Fine Arts - Music - FR H-French Horn", "Weitzenhoffer Col of Fine Arts - Music - GCRE-Grad Comp Recital", "Weitzenhoffer Col of Fine Arts - Music - GDMA-Grad Recital DMA", "Weitzenhoffer Col of Fine Arts - Music - GMER-Grad Mued Recit MME", "Weitzenhoffer Col of Fine Arts - Music - GRRE-Graduate Recital - MM", "Weitzenhoffer Col of Fine Arts - Music - GTAR-Guitar", "Weitzenhoffer Col of Fine Arts - Music - HARP-Harp", "Weitzenhoffer Col of Fine Arts - Music - HPCD-Harpsichord", "Weitzenhoffer Col of Fine Arts - Music - JRRE-Music Recitals", "Weitzenhoffer Col of Fine Arts - Music - LDMA-Music Recitals", "Weitzenhoffer Col of Fine Arts - Music - MUED-Music Education", "Weitzenhoffer Col of Fine Arts - Music - MULI-Music Literature", "Weitzenhoffer Col of Fine Arts - Music - MUNM-Music for Non-Majors", "Weitzenhoffer Col of Fine Arts - Music - MUSC-Musicology", "Weitzenhoffer Col of Fine Arts - Music - MUS-Music", "Weitzenhoffer Col of Fine Arts - Music - MUTE-Music Technique", "Weitzenhoffer Col of Fine Arts - Music - MUTH-Music Theory", "Weitzenhoffer Col of Fine Arts - Music - MUTK-Music Technology", "Weitzenhoffer Col of Fine Arts - Music - OBOE-Oboe", "Weitzenhoffer Col of Fine Arts - Music - ORGN-Organ", "Weitzenhoffer Col of Fine Arts - Music - PCUS-Percussion", "Weitzenhoffer Col of Fine Arts - Music - PIAN-Piano", "Weitzenhoffer Col of Fine Arts - Music - RPHD-Music Recitals", "Weitzenhoffer Col of Fine Arts - Music - SAX-Saxophone", "Weitzenhoffer Col of Fine Arts - Music - SRRE-Music Recitals", "Weitzenhoffer Col of Fine Arts - Music - TRMP-Trumpet", "Weitzenhoffer Col of Fine Arts - Music - TROM-Trombone", "Weitzenhoffer Col of Fine Arts - Music - TUBA-Tuba", "Weitzenhoffer Col of Fine Arts - Music - UGRE-Music Recitals", "Weitzenhoffer Col of Fine Arts - Music - VIOA-Viola", "Weitzenhoffer Col of Fine Arts - Music - VIOL-Violin", "Weitzenhoffer Col of Fine Arts - Music - VOIC-Voice", "Weitzenhoffer Col of Fine Arts - Musical Theatre - MTHR-Musical Theatre", "Weitzenhoffer Col of Fine Arts - Visual Arts - A HI-Art History", "Weitzenhoffer Col of Fine Arts - Visual Arts - ARNM-Art for Non-Majors", "Weitzenhoffer Col of Fine Arts - Visual Arts - ART-Art", "Weitzenhoffer Col of Fine Arts - Visual Arts - ARTC-Art Theory & Criticism", "Weitzenhoffer Col of Fine Arts - Visual Arts - ARTH-Art Therapy", "Weitzenhoffer Col of Fine Arts - Visual Arts - ATC - Art Technology & Culture", "Weitzenhoffer Col of Fine Arts - Visual Arts - DES - Design", "Weitzenhoffer Col of Fine Arts - Weitzenhoffer Col of Fine Arts - F A-College of Fine Arts"]
-}
+[
+  {
+    "value": "Centers/Institutes - American Organ Institute",
+    "label": "Centers/Institutes - American Organ Institute"
+  },
+  {
+    "value": "Centers/Institutes - Carl Albert Congressional Research and Studies Center",
+    "label": "Centers/Institutes - Carl Albert Congressional Research and Studies Center"
+  },
+  {
+    "value": "Centers/Institutes - Center for Public Management",
+    "label": "Centers/Institutes - Center for Public Management"
+  },
+  {
+    "value": "Centers/Institutes - Center for Risk and Crisis Management",
+    "label": "Centers/Institutes - Center for Risk and Crisis Management"
+  },
+  {
+    "value": "Centers/Institutes - Center for Spatial Analysis",
+    "label": "Centers/Institutes - Center for Spatial Analysis"
+  },
+  {
+    "value": "Centers/Institutes - Center for Teaching Excellence",
+    "label": "Centers/Institutes - Center for Teaching Excellence"
+  },
+  {
+    "value": "Centers/Institutes - CIMMS - Cooperative Institute for Mesoscale Meteorological Studies",
+    "label": "Centers/Institutes - CIMMS - Cooperative Institute for Mesoscale Meteorological Studies"
+  },
+  {
+    "value": "Centers/Institutes - Laboratories of Molecular Anthropology and Microbiome Research",
+    "label": "Centers/Institutes - Laboratories of Molecular Anthropology and Microbiome Research"
+  },
+  {
+    "value": "Centers/Institutes - Oklahoma Biological Survey",
+    "label": "Centers/Institutes - Oklahoma Biological Survey"
+  },
+  {
+    "value": "Centers/Institutes - Oklahoma Center for Neuroscience",
+    "label": "Centers/Institutes - Oklahoma Center for Neuroscience"
+  },
+  {
+    "value": "Centers/Institutes - Oklahoma Geological Survey",
+    "label": "Centers/Institutes - Oklahoma Geological Survey"
+  },
+  {
+    "value": "Centers/Institutes - Oklahoma Water Survey",
+    "label": "Centers/Institutes - Oklahoma Water Survey"
+  },
+  {
+    "value": "Centers/Institutes - OU Supercomputing Center for Education & Research",
+    "label": "Centers/Institutes - OU Supercomputing Center for Education & Research"
+  },
+  {
+    "value": "Centers/Institutes - South Central Climate Adaptation Science Center",
+    "label": "Centers/Institutes - South Central Climate Adaptation Science Center"
+  },
+  {
+    "value": "Col of Atmospheric and Geo Sci - Col of Atmospheric and Geo Sci - AGSC-Atmos/Geographic Sci",
+    "label": "Col of Atmospheric and Geo Sci - Col of Atmospheric and Geo Sci - AGSC-Atmos/Geographic Sci"
+  },
+  {
+    "value": "Col of Atmospheric and Geo Sci - Geography & Environ Sustain - GEOG-Geog & Environ Sustain",
+    "label": "Col of Atmospheric and Geo Sci - Geography & Environ Sustain - GEOG-Geog & Environ Sustain"
+  },
+  {
+    "value": "Col of Atmospheric and Geo Sci - Geography & Environ Sustain - GIS-Geographic Info Science",
+    "label": "Col of Atmospheric and Geo Sci - Geography & Environ Sustain - GIS-Geographic Info Science"
+  },
+  {
+    "value": "Col of Atmospheric and Geo Sci - Geoinformatics - GIS-Geographic Info Science",
+    "label": "Col of Atmospheric and Geo Sci - Geoinformatics - GIS-Geographic Info Science"
+  },
+  {
+    "value": "Col of Atmospheric and Geo Sci - Meteorology - METR-Meteorology",
+    "label": "Col of Atmospheric and Geo Sci - Meteorology - METR-Meteorology"
+  },
+  {
+    "value": "Col of International Studies - Education Abroad - INTL-International Courses",
+    "label": "Col of International Studies - Education Abroad - INTL-International Courses"
+  },
+  {
+    "value": "Col of International Studies - International and Area Studies - IAS-International & Area St",
+    "label": "Col of International Studies - International and Area Studies - IAS-International & Area St"
+  },
+  {
+    "value": "College of Architecture - Architecture Division - ARCH-Architecture",
+    "label": "College of Architecture - Architecture Division - ARCH-Architecture"
+  },
+  {
+    "value": "College of Architecture - Architecture Division - EN D-Environmental Design",
+    "label": "College of Architecture - Architecture Division - EN D-Environmental Design"
+  },
+  {
+    "value": "College of Architecture - College of Architecture - PDC-Planning, Design & Constr.",
+    "label": "College of Architecture - College of Architecture - PDC-Planning, Design & Constr."
+  },
+  {
+    "value": "College of Architecture - Construction Science - CNS-Construction Science",
+    "label": "College of Architecture - Construction Science - CNS-Construction Science"
+  },
+  {
+    "value": "College of Architecture - Interior Design - I D-Interior Design",
+    "label": "College of Architecture - Interior Design - I D-Interior Design"
+  },
+  {
+    "value": "College of Architecture - Landscape Architecture - L A-Landscape Architecture",
+    "label": "College of Architecture - Landscape Architecture - L A-Landscape Architecture"
+  },
+  {
+    "value": "College of Architecture - Regional and City Planning - RCPL-Regional & City Plan",
+    "label": "College of Architecture - Regional and City Planning - RCPL-Regional & City Plan"
+  },
+  {
+    "value": "College of Arts and Sciences - African and African Am Studies - AFAM-African & African Am St",
+    "label": "College of Arts and Sciences - African and African Am Studies - AFAM-African & African Am St"
+  },
+  {
+    "value": "College of Arts and Sciences - Anthropology - ANTH-Anthropology",
+    "label": "College of Arts and Sciences - Anthropology - ANTH-Anthropology"
+  },
+  {
+    "value": "College of Arts and Sciences - Biology - BIOL-Biology",
+    "label": "College of Arts and Sciences - Biology - BIOL-Biology"
+  },
+  {
+    "value": "College of Arts and Sciences - Biology - PBIO-Plant Biology",
+    "label": "College of Arts and Sciences - Biology - PBIO-Plant Biology"
+  },
+  {
+    "value": "College of Arts and Sciences - Biology - ZOO-Zoology",
+    "label": "College of Arts and Sciences - Biology - ZOO-Zoology"
+  },
+  {
+    "value": "College of Arts and Sciences - Biology-Micro & Plant Biology - BIOL-Biology",
+    "label": "College of Arts and Sciences - Biology-Micro & Plant Biology - BIOL-Biology"
+  },
+  {
+    "value": "College of Arts and Sciences - Chemistry and Biochemistry - CHEM-Chemistry",
+    "label": "College of Arts and Sciences - Chemistry and Biochemistry - CHEM-Chemistry"
+  },
+  {
+    "value": "College of Arts and Sciences - Classics and Letters - CL C-Classics",
+    "label": "College of Arts and Sciences - Classics and Letters - CL C-Classics"
+  },
+  {
+    "value": "College of Arts and Sciences - Classics and Letters - GRK-Greek",
+    "label": "College of Arts and Sciences - Classics and Letters - GRK-Greek"
+  },
+  {
+    "value": "College of Arts and Sciences - Classics and Letters - LAT-Latin",
+    "label": "College of Arts and Sciences - Classics and Letters - LAT-Latin"
+  },
+  {
+    "value": "College of Arts and Sciences - Classics and Letters - LTRS-Letters",
+    "label": "College of Arts and Sciences - Classics and Letters - LTRS-Letters"
+  },
+  {
+    "value": "College of Arts and Sciences - College of Arts and Science - CAS-Coll of Arts & Sciences",
+    "label": "College of Arts and Sciences - College of Arts and Science - CAS-Coll of Arts & Sciences"
+  },
+  {
+    "value": "College of Arts and Sciences - College of Arts and Science - PHCH-Public & Community Health",
+    "label": "College of Arts and Sciences - College of Arts and Science - PHCH-Public & Community Health"
+  },
+  {
+    "value": "College of Arts and Sciences - Communication - COMM-Communication",
+    "label": "College of Arts and Sciences - Communication - COMM-Communication"
+  },
+  {
+    "value": "College of Arts and Sciences - Economics - ECON-Economics",
+    "label": "College of Arts and Sciences - Economics - ECON-Economics"
+  },
+  {
+    "value": "College of Arts and Sciences - English - ENGL-English",
+    "label": "College of Arts and Sciences - English - ENGL-English"
+  },
+  {
+    "value": "College of Arts and Sciences - Environmental Studies - ENST-Environmental Studies",
+    "label": "College of Arts and Sciences - Environmental Studies - ENST-Environmental Studies"
+  },
+  {
+    "value": "College of Arts and Sciences - Environmental Studies - IPE-Intrdiscp Prsp Envirn",
+    "label": "College of Arts and Sciences - Environmental Studies - IPE-Intrdiscp Prsp Envirn"
+  },
+  {
+    "value": "College of Arts and Sciences - Film and Media Studies - FMS-Film and Media Studies",
+    "label": "College of Arts and Sciences - Film and Media Studies - FMS-Film and Media Studies"
+  },
+  {
+    "value": "College of Arts and Sciences - Film and Media Studies - FVS-Film and Media Studies",
+    "label": "College of Arts and Sciences - Film and Media Studies - FVS-Film and Media Studies"
+  },
+  {
+    "value": "College of Arts and Sciences - Health and Exercise Science - HES-Health and Exercise Sci",
+    "label": "College of Arts and Sciences - Health and Exercise Science - HES-Health and Exercise Sci"
+  },
+  {
+    "value": "College of Arts and Sciences - History - HIST-History",
+    "label": "College of Arts and Sciences - History - HIST-History"
+  },
+  {
+    "value": "College of Arts and Sciences - History of Science - HMS-Health, Med, & Society",
+    "label": "College of Arts and Sciences - History of Science - HMS-Health, Med, & Society"
+  },
+  {
+    "value": "College of Arts and Sciences - History of Science - HSCI-History of Sciences",
+    "label": "College of Arts and Sciences - History of Science - HSCI-History of Sciences"
+  },
+  {
+    "value": "College of Arts and Sciences - Human Relations - H R-Human Relations",
+    "label": "College of Arts and Sciences - Human Relations - H R-Human Relations"
+  },
+  {
+    "value": "College of Arts and Sciences - Library and Info Studies - KM-Knowledge Management",
+    "label": "College of Arts and Sciences - Library and Info Studies - KM-Knowledge Management"
+  },
+  {
+    "value": "College of Arts and Sciences - Library and Info Studies - LIS-Library Information St",
+    "label": "College of Arts and Sciences - Library and Info Studies - LIS-Library Information St"
+  },
+  {
+    "value": "College of Arts and Sciences - Mathematics - MATH-Mathematics",
+    "label": "College of Arts and Sciences - Mathematics - MATH-Mathematics"
+  },
+  {
+    "value": "College of Arts and Sciences - Medieval and Renaissance St - MRS-Medieval and Renaissance",
+    "label": "College of Arts and Sciences - Medieval and Renaissance St - MRS-Medieval and Renaissance"
+  },
+  {
+    "value": "College of Arts and Sciences - Microbiology and Plant Biology - BOT-Botany",
+    "label": "College of Arts and Sciences - Microbiology and Plant Biology - BOT-Botany"
+  },
+  {
+    "value": "College of Arts and Sciences - Microbiology and Plant Biology - MBIO-Microbiology",
+    "label": "College of Arts and Sciences - Microbiology and Plant Biology - MBIO-Microbiology"
+  },
+  {
+    "value": "College of Arts and Sciences - Microbiology and Plant Biology - PBIO-Plant Biology",
+    "label": "College of Arts and Sciences - Microbiology and Plant Biology - PBIO-Plant Biology"
+  },
+  {
+    "value": "College of Arts and Sciences - Modern Lang, Lit and Ling - ARAB-Arabic",
+    "label": "College of Arts and Sciences - Modern Lang, Lit and Ling - ARAB-Arabic"
+  },
+  {
+    "value": "College of Arts and Sciences - Modern Lang, Lit and Ling - CHIN-Chinese",
+    "label": "College of Arts and Sciences - Modern Lang, Lit and Ling - CHIN-Chinese"
+  },
+  {
+    "value": "College of Arts and Sciences - Modern Lang, Lit and Ling - FR-French",
+    "label": "College of Arts and Sciences - Modern Lang, Lit and Ling - FR-French"
+  },
+  {
+    "value": "College of Arts and Sciences - Modern Lang, Lit and Ling - GERM-German",
+    "label": "College of Arts and Sciences - Modern Lang, Lit and Ling - GERM-German"
+  },
+  {
+    "value": "College of Arts and Sciences - Modern Lang, Lit and Ling - HEBR-Hebrew",
+    "label": "College of Arts and Sciences - Modern Lang, Lit and Ling - HEBR-Hebrew"
+  },
+  {
+    "value": "College of Arts and Sciences - Modern Lang, Lit and Ling - ITAL-Italian",
+    "label": "College of Arts and Sciences - Modern Lang, Lit and Ling - ITAL-Italian"
+  },
+  {
+    "value": "College of Arts and Sciences - Modern Lang, Lit and Ling - JAPN-Japanese",
+    "label": "College of Arts and Sciences - Modern Lang, Lit and Ling - JAPN-Japanese"
+  },
+  {
+    "value": "College of Arts and Sciences - Modern Lang, Lit and Ling - LING-Linguistics",
+    "label": "College of Arts and Sciences - Modern Lang, Lit and Ling - LING-Linguistics"
+  },
+  {
+    "value": "College of Arts and Sciences - Modern Lang, Lit and Ling - MLLL-Mod Lang, Lit & Ling",
+    "label": "College of Arts and Sciences - Modern Lang, Lit and Ling - MLLL-Mod Lang, Lit & Ling"
+  },
+  {
+    "value": "College of Arts and Sciences - Modern Lang, Lit and Ling - PERS - Persian",
+    "label": "College of Arts and Sciences - Modern Lang, Lit and Ling - PERS - Persian"
+  },
+  {
+    "value": "College of Arts and Sciences - Modern Lang, Lit and Ling - PORT-Portuguese",
+    "label": "College of Arts and Sciences - Modern Lang, Lit and Ling - PORT-Portuguese"
+  },
+  {
+    "value": "College of Arts and Sciences - Modern Lang, Lit and Ling - RUSS-Russian",
+    "label": "College of Arts and Sciences - Modern Lang, Lit and Ling - RUSS-Russian"
+  },
+  {
+    "value": "College of Arts and Sciences - Modern Lang, Lit and Ling - SPAN-Spanish",
+    "label": "College of Arts and Sciences - Modern Lang, Lit and Ling - SPAN-Spanish"
+  },
+  {
+    "value": "College of Arts and Sciences - Native American Studies - CHER-Cherokee",
+    "label": "College of Arts and Sciences - Native American Studies - CHER-Cherokee"
+  },
+  {
+    "value": "College of Arts and Sciences - Native American Studies - CHOC-Choctaw",
+    "label": "College of Arts and Sciences - Native American Studies - CHOC-Choctaw"
+  },
+  {
+    "value": "College of Arts and Sciences - Native American Studies - CREK-Creek",
+    "label": "College of Arts and Sciences - Native American Studies - CREK-Creek"
+  },
+  {
+    "value": "College of Arts and Sciences - Native American Studies - KIOW-Kiowa",
+    "label": "College of Arts and Sciences - Native American Studies - KIOW-Kiowa"
+  },
+  {
+    "value": "College of Arts and Sciences - Native American Studies - NAS-Native American Studies",
+    "label": "College of Arts and Sciences - Native American Studies - NAS-Native American Studies"
+  },
+  {
+    "value": "College of Arts and Sciences - Philosophy - PHIL-Philosophy",
+    "label": "College of Arts and Sciences - Philosophy - PHIL-Philosophy"
+  },
+  {
+    "value": "College of Arts and Sciences - Physics and Astronomy - ASTR-Astronomy",
+    "label": "College of Arts and Sciences - Physics and Astronomy - ASTR-Astronomy"
+  },
+  {
+    "value": "College of Arts and Sciences - Physics and Astronomy - PHYS-Physics",
+    "label": "College of Arts and Sciences - Physics and Astronomy - PHYS-Physics"
+  },
+  {
+    "value": "College of Arts and Sciences - Political Science - NPNG-Nonprofit and Nongov Org",
+    "label": "College of Arts and Sciences - Political Science - NPNG-Nonprofit and Nongov Org"
+  },
+  {
+    "value": "College of Arts and Sciences - Political Science - P SC-Political Science",
+    "label": "College of Arts and Sciences - Political Science - P SC-Political Science"
+  },
+  {
+    "value": "College of Arts and Sciences - Psychology - ODYN-Organizational Dynamics",
+    "label": "College of Arts and Sciences - Psychology - ODYN-Organizational Dynamics"
+  },
+  {
+    "value": "College of Arts and Sciences - Psychology - PSY-Psychology",
+    "label": "College of Arts and Sciences - Psychology - PSY-Psychology"
+  },
+  {
+    "value": "College of Arts and Sciences - Religious Studies - RELS-Religious Studies",
+    "label": "College of Arts and Sciences - Religious Studies - RELS-Religious Studies"
+  },
+  {
+    "value": "College of Arts and Sciences - Social Work - S WK-Social Work",
+    "label": "College of Arts and Sciences - Social Work - S WK-Social Work"
+  },
+  {
+    "value": "College of Arts and Sciences - Sociology - SOC-Sociology",
+    "label": "College of Arts and Sciences - Sociology - SOC-Sociology"
+  },
+  {
+    "value": "College of Arts and Sciences - Women's and Gender Studies - LGBT-LGBTQ Studies",
+    "label": "College of Arts and Sciences - Women's and Gender Studies - LGBT-LGBTQ Studies"
+  },
+  {
+    "value": "College of Arts and Sciences - Women's and Gender Studies - W S-Women's Studies",
+    "label": "College of Arts and Sciences - Women's and Gender Studies - W S-Women's Studies"
+  },
+  {
+    "value": "College of Arts and Sciences - Women's and Gender Studies - WGS-Women's & Gender Studies",
+    "label": "College of Arts and Sciences - Women's and Gender Studies - WGS-Women's & Gender Studies"
+  },
+  {
+    "value": "College of Engineering - Aerospace and Mechanical Engr - AME-Aerospace & Mechnical Engr",
+    "label": "College of Engineering - Aerospace and Mechanical Engr - AME-Aerospace & Mechnical Engr"
+  },
+  {
+    "value": "College of Engineering - Biomedical Engineering - BIOE-Bioengineering",
+    "label": "College of Engineering - Biomedical Engineering - BIOE-Bioengineering"
+  },
+  {
+    "value": "College of Engineering - Biomedical Engineering - BME-Biomedical Engineering",
+    "label": "College of Engineering - Biomedical Engineering - BME-Biomedical Engineering"
+  },
+  {
+    "value": "College of Engineering - Chem, Biological and Material - CH E-Chemical Engineering",
+    "label": "College of Engineering - Chem, Biological and Material - CH E-Chemical Engineering"
+  },
+  {
+    "value": "College of Engineering - Civil Engr and Environmental - CEES-Civil Engr & Environ Sci",
+    "label": "College of Engineering - Civil Engr and Environmental - CEES-Civil Engr & Environ Sci"
+  },
+  {
+    "value": "College of Engineering - Civil Engr and Environmental - E S-Environmental Science",
+    "label": "College of Engineering - Civil Engr and Environmental - E S-Environmental Science"
+  },
+  {
+    "value": "College of Engineering - College of Engineering - DSA-Data Science and Analytics",
+    "label": "College of Engineering - College of Engineering - DSA-Data Science and Analytics"
+  },
+  {
+    "value": "College of Engineering - College of Engineering - ENGR-College of Engineering",
+    "label": "College of Engineering - College of Engineering - ENGR-College of Engineering"
+  },
+  {
+    "value": "College of Engineering - College of Engineering - EPHY-Engineering Physics",
+    "label": "College of Engineering - College of Engineering - EPHY-Engineering Physics"
+  },
+  {
+    "value": "College of Engineering - Computer Science - C S-Computer Science",
+    "label": "College of Engineering - Computer Science - C S-Computer Science"
+  },
+  {
+    "value": "College of Engineering - Electrical and Computer Engr - ECE-Electrical & Computer Eng",
+    "label": "College of Engineering - Electrical and Computer Engr - ECE-Electrical & Computer Eng"
+  },
+  {
+    "value": "College of Engineering - Electrical and Computer Engr - TCOM-Telecommunications",
+    "label": "College of Engineering - Electrical and Computer Engr - TCOM-Telecommunications"
+  },
+  {
+    "value": "College of Engineering - Industrial & Systems Engr - I E-Industrial Engineering",
+    "label": "College of Engineering - Industrial & Systems Engr - I E-Industrial Engineering"
+  },
+  {
+    "value": "College of Engineering - Industrial & Systems Engr - ISE-Industrial & Systems Engr",
+    "label": "College of Engineering - Industrial & Systems Engr - ISE-Industrial & Systems Engr"
+  },
+  {
+    "value": "College of Law - College of Law - ILAW-International Law",
+    "label": "College of Law - College of Law - ILAW-International Law"
+  },
+  {
+    "value": "College of Law - College of Law - LAW-Law",
+    "label": "College of Law - College of Law - LAW-Law"
+  },
+  {
+    "value": "College of Professional & Continuing Studies - Aviation - AVIA-Aviation",
+    "label": "College of Professional & Continuing Studies - Aviation - AVIA-Aviation"
+  },
+  {
+    "value": "College of Professional & Continuing Studies - Liberal Studies - LSAL-Adminstrative Leadership",
+    "label": "College of Professional & Continuing Studies - Liberal Studies - LSAL-Adminstrative Leadership"
+  },
+  {
+    "value": "College of Professional & Continuing Studies - Liberal Studies - LSCJ-Criminal Justice",
+    "label": "College of Professional & Continuing Studies - Liberal Studies - LSCJ-Criminal Justice"
+  },
+  {
+    "value": "College of Professional & Continuing Studies - Liberal Studies - LSCS-Cultural Studies",
+    "label": "College of Professional & Continuing Studies - Liberal Studies - LSCS-Cultural Studies"
+  },
+  {
+    "value": "College of Professional & Continuing Studies - Liberal Studies - LSHA-Lib Studies Health Admin",
+    "label": "College of Professional & Continuing Studies - Liberal Studies - LSHA-Lib Studies Health Admin"
+  },
+  {
+    "value": "College of Professional & Continuing Studies - Liberal Studies - LSIS-Integrated Studies",
+    "label": "College of Professional & Continuing Studies - Liberal Studies - LSIS-Integrated Studies"
+  },
+  {
+    "value": "College of Professional & Continuing Studies - Liberal Studies - LSLC-Lifespan Care & Admin",
+    "label": "College of Professional & Continuing Studies - Liberal Studies - LSLC-Lifespan Care & Admin"
+  },
+  {
+    "value": "College of Professional & Continuing Studies - Liberal Studies - LSMS-Museum Studies",
+    "label": "College of Professional & Continuing Studies - Liberal Studies - LSMS-Museum Studies"
+  },
+  {
+    "value": "College of Professional & Continuing Studies - Liberal Studies - LSPS-Prevention Science",
+    "label": "College of Professional & Continuing Studies - Liberal Studies - LSPS-Prevention Science"
+  },
+  {
+    "value": "College of Professional & Continuing Studies - Liberal Studies - LSTD-Liberal Studies",
+    "label": "College of Professional & Continuing Studies - Liberal Studies - LSTD-Liberal Studies"
+  },
+  {
+    "value": "College of Professional & Continuing Studies - PACS Dean's Office - DENG-Developmental Writing",
+    "label": "College of Professional & Continuing Studies - PACS Dean's Office - DENG-Developmental Writing"
+  },
+  {
+    "value": "College of Professional & Continuing Studies - PACS Dean's Office - DMAT-Developmental Mathematics",
+    "label": "College of Professional & Continuing Studies - PACS Dean's Office - DMAT-Developmental Mathematics"
+  },
+  {
+    "value": "College of Professional & Continuing Studies - PACS Dean's Office - DRDG-Developmental Reading",
+    "label": "College of Professional & Continuing Studies - PACS Dean's Office - DRDG-Developmental Reading"
+  },
+  {
+    "value": "Gaylord College of JMC - Gaylord College of JMC - JMC-Journalism & Mass Comm",
+    "label": "Gaylord College of JMC - Gaylord College of JMC - JMC-Journalism & Mass Comm"
+  },
+  {
+    "value": "Graduate College - Graduate College - GRAD-Graduate College",
+    "label": "Graduate College - Graduate College - GRAD-Graduate College"
+  },
+  {
+    "value": "Honors College - Honors College - HON-Honors College",
+    "label": "Honors College - Honors College - HON-Honors College"
+  },
+  {
+    "value": "Jeannine Rainbolt Coll of Educ - College of Education - EDUC-College of Education",
+    "label": "Jeannine Rainbolt Coll of Educ - College of Education - EDUC-College of Education"
+  },
+  {
+    "value": "Jeannine Rainbolt Coll of Educ - Educ Ldrshp and Policy St - EACS-Ed Admin,Curr & Suprvn",
+    "label": "Jeannine Rainbolt Coll of Educ - Educ Ldrshp and Policy St - EACS-Ed Admin,Curr & Suprvn"
+  },
+  {
+    "value": "Jeannine Rainbolt Coll of Educ - Educ Ldrshp and Policy St - EDAH-Adult and Higher Educ",
+    "label": "Jeannine Rainbolt Coll of Educ - Educ Ldrshp and Policy St - EDAH-Adult and Higher Educ"
+  },
+  {
+    "value": "Jeannine Rainbolt Coll of Educ - Educ Ldrshp and Policy St - EDFN-Social Foundation of Educ",
+    "label": "Jeannine Rainbolt Coll of Educ - Educ Ldrshp and Policy St - EDFN-Social Foundation of Educ"
+  },
+  {
+    "value": "Jeannine Rainbolt Coll of Educ - Educ Ldrshp and Policy St - EDS-Educational Studies",
+    "label": "Jeannine Rainbolt Coll of Educ - Educ Ldrshp and Policy St - EDS-Educational Studies"
+  },
+  {
+    "value": "Jeannine Rainbolt Coll of Educ - Education Psychology - EDPC-Professional Counseling",
+    "label": "Jeannine Rainbolt Coll of Educ - Education Psychology - EDPC-Professional Counseling"
+  },
+  {
+    "value": "Jeannine Rainbolt Coll of Educ - Education Psychology - EDPY-Educ & Counseling Psy",
+    "label": "Jeannine Rainbolt Coll of Educ - Education Psychology - EDPY-Educ & Counseling Psy"
+  },
+  {
+    "value": "Jeannine Rainbolt Coll of Educ - Education Psychology - EDSP-Special Education",
+    "label": "Jeannine Rainbolt Coll of Educ - Education Psychology - EDSP-Special Education"
+  },
+  {
+    "value": "Jeannine Rainbolt Coll of Educ - Education Psychology - EIPT-Instruct Lead Psy & Tech",
+    "label": "Jeannine Rainbolt Coll of Educ - Education Psychology - EIPT-Instruct Lead Psy & Tech"
+  },
+  {
+    "value": "Jeannine Rainbolt Coll of Educ - Instr Leadership and Acad Curr - EDEC-Early Childhood Educ",
+    "label": "Jeannine Rainbolt Coll of Educ - Instr Leadership and Acad Curr - EDEC-Early Childhood Educ"
+  },
+  {
+    "value": "Jeannine Rainbolt Coll of Educ - Instr Leadership and Acad Curr - EDEL-Elementary Education",
+    "label": "Jeannine Rainbolt Coll of Educ - Instr Leadership and Acad Curr - EDEL-Elementary Education"
+  },
+  {
+    "value": "Jeannine Rainbolt Coll of Educ - Instr Leadership and Acad Curr - EDEN-English Education",
+    "label": "Jeannine Rainbolt Coll of Educ - Instr Leadership and Acad Curr - EDEN-English Education"
+  },
+  {
+    "value": "Jeannine Rainbolt Coll of Educ - Instr Leadership and Acad Curr - EDLT-Literacy Education",
+    "label": "Jeannine Rainbolt Coll of Educ - Instr Leadership and Acad Curr - EDLT-Literacy Education"
+  },
+  {
+    "value": "Jeannine Rainbolt Coll of Educ - Instr Leadership and Acad Curr - EDMA-Mathematics Education",
+    "label": "Jeannine Rainbolt Coll of Educ - Instr Leadership and Acad Curr - EDMA-Mathematics Education"
+  },
+  {
+    "value": "Jeannine Rainbolt Coll of Educ - Instr Leadership and Acad Curr - EDRG-Reading Education",
+    "label": "Jeannine Rainbolt Coll of Educ - Instr Leadership and Acad Curr - EDRG-Reading Education"
+  },
+  {
+    "value": "Jeannine Rainbolt Coll of Educ - Instr Leadership and Acad Curr - EDSC-Science Education",
+    "label": "Jeannine Rainbolt Coll of Educ - Instr Leadership and Acad Curr - EDSC-Science Education"
+  },
+  {
+    "value": "Jeannine Rainbolt Coll of Educ - Instr Leadership and Acad Curr - EDSE-Secondary Education",
+    "label": "Jeannine Rainbolt Coll of Educ - Instr Leadership and Acad Curr - EDSE-Secondary Education"
+  },
+  {
+    "value": "Jeannine Rainbolt Coll of Educ - Instr Leadership and Acad Curr - EDSS-Social Studies Educ",
+    "label": "Jeannine Rainbolt Coll of Educ - Instr Leadership and Acad Curr - EDSS-Social Studies Educ"
+  },
+  {
+    "value": "Jeannine Rainbolt Coll of Educ - Instr Leadership and Acad Curr - EDWL-World Language Education",
+    "label": "Jeannine Rainbolt Coll of Educ - Instr Leadership and Acad Curr - EDWL-World Language Education"
+  },
+  {
+    "value": "Jeannine Rainbolt Coll of Educ - Instr Leadership and Acad Curr - ILAC-Instr Lead & Acad Curr",
+    "label": "Jeannine Rainbolt Coll of Educ - Instr Leadership and Acad Curr - ILAC-Instr Lead & Acad Curr"
+  },
+  {
+    "value": "Mewbourne Col of Earth/Energy - Geology and Geophysics - GEOL-Geology",
+    "label": "Mewbourne Col of Earth/Energy - Geology and Geophysics - GEOL-Geology"
+  },
+  {
+    "value": "Mewbourne Col of Earth/Energy - Geology and Geophysics - GPHY-Geophysics",
+    "label": "Mewbourne Col of Earth/Energy - Geology and Geophysics - GPHY-Geophysics"
+  },
+  {
+    "value": "Mewbourne Col of Earth/Energy - Mewbourne Col of Earth/Energy - CEE-Coll of Earth & Energy",
+    "label": "Mewbourne Col of Earth/Energy - Mewbourne Col of Earth/Energy - CEE-Coll of Earth & Energy"
+  },
+  {
+    "value": "Mewbourne Col of Earth/Energy - Petroleum and Geological Engr - G E-Geological Engineering",
+    "label": "Mewbourne Col of Earth/Energy - Petroleum and Geological Engr - G E-Geological Engineering"
+  },
+  {
+    "value": "Mewbourne Col of Earth/Energy - Petroleum and Geological Engr - P E-Petroleum Engineering",
+    "label": "Mewbourne Col of Earth/Energy - Petroleum and Geological Engr - P E-Petroleum Engineering"
+  },
+  {
+    "value": "OU - Information Technology (OU IT)",
+    "label": "OU - Information Technology (OU IT)"
+  },
+  {
+    "value": "OU - University Libraries",
+    "label": "OU - University Libraries"
+  },
+  {
+    "value": "OU Tulsa",
+    "label": "OU Tulsa"
+  },
+  {
+    "value": "OU Tulsa - Office for Research Development & Scholarly Activity",
+    "label": "OU Tulsa - Office for Research Development & Scholarly Activity"
+  },
+  {
+    "value": "OU Tulsa - Schusterman Library",
+    "label": "OU Tulsa - Schusterman Library"
+  },
+  {
+    "value": "OUHSC - Biostatistics and Epidemiology",
+    "label": "OUHSC - Biostatistics and Epidemiology"
+  },
+  {
+    "value": "OUHSC - Health Sciences Center",
+    "label": "OUHSC - Health Sciences Center"
+  },
+  {
+    "value": "OUHSC - Pediatrics",
+    "label": "OUHSC - Pediatrics"
+  },
+  {
+    "value": "OUHSC - Pharmacy Science",
+    "label": "OUHSC - Pharmacy Science"
+  },
+  {
+    "value": "Price College of Business - Accounting - ACCT-Accounting",
+    "label": "Price College of Business - Accounting - ACCT-Accounting"
+  },
+  {
+    "value": "Price College of Business - Energy Management - EMGT-Energy Management",
+    "label": "Price College of Business - Energy Management - EMGT-Energy Management"
+  },
+  {
+    "value": "Price College of Business - Entreprenuer & Economic Dev - ENT-Entrepreneurship",
+    "label": "Price College of Business - Entreprenuer & Economic Dev - ENT-Entrepreneurship"
+  },
+  {
+    "value": "Price College of Business - Finance - ENGB-Energy for Business",
+    "label": "Price College of Business - Finance - ENGB-Energy for Business"
+  },
+  {
+    "value": "Price College of Business - Finance - FIN-Finance",
+    "label": "Price College of Business - Finance - FIN-Finance"
+  },
+  {
+    "value": "Price College of Business - Finance - L S-Legal Studies",
+    "label": "Price College of Business - Finance - L S-Legal Studies"
+  },
+  {
+    "value": "Price College of Business - Management & Internat Business - ENT-Entrepreneurship",
+    "label": "Price College of Business - Management & Internat Business - ENT-Entrepreneurship"
+  },
+  {
+    "value": "Price College of Business - Management & Internat Business - L S-Legal Studies",
+    "label": "Price College of Business - Management & Internat Business - L S-Legal Studies"
+  },
+  {
+    "value": "Price College of Business - Management & Internat Business - MGT-Management",
+    "label": "Price College of Business - Management & Internat Business - MGT-Management"
+  },
+  {
+    "value": "Price College of Business - Management Information Systems - MIS-Management Info Systems",
+    "label": "Price College of Business - Management Information Systems - MIS-Management Info Systems"
+  },
+  {
+    "value": "Price College of Business - Management Information Systems - MIT-Management Info Technology",
+    "label": "Price College of Business - Management Information Systems - MIT-Management Info Technology"
+  },
+  {
+    "value": "Price College of Business - Marketing and Supply Chain Mgt - B C-Business  Communication",
+    "label": "Price College of Business - Marketing and Supply Chain Mgt - B C-Business  Communication"
+  },
+  {
+    "value": "Price College of Business - Marketing and Supply Chain Mgt - FRAN-Franchising",
+    "label": "Price College of Business - Marketing and Supply Chain Mgt - FRAN-Franchising"
+  },
+  {
+    "value": "Price College of Business - Marketing and Supply Chain Mgt - HCB-Health Care Business",
+    "label": "Price College of Business - Marketing and Supply Chain Mgt - HCB-Health Care Business"
+  },
+  {
+    "value": "Price College of Business - Marketing and Supply Chain Mgt - L S-Legal Studies",
+    "label": "Price College of Business - Marketing and Supply Chain Mgt - L S-Legal Studies"
+  },
+  {
+    "value": "Price College of Business - Marketing and Supply Chain Mgt - MKT-Marketing",
+    "label": "Price College of Business - Marketing and Supply Chain Mgt - MKT-Marketing"
+  },
+  {
+    "value": "Price College of Business - Marketing and Supply Chain Mgt - SCM-Supply Chain Management",
+    "label": "Price College of Business - Marketing and Supply Chain Mgt - SCM-Supply Chain Management"
+  },
+  {
+    "value": "Price College of Business - Price College of Business - B AD-Business Administration",
+    "label": "Price College of Business - Price College of Business - B AD-Business Administration"
+  },
+  {
+    "value": "Price College of Business - Price College of Business - B C-Business  Communication",
+    "label": "Price College of Business - Price College of Business - B C-Business  Communication"
+  },
+  {
+    "value": "Price College of Business - Price College of Business - EMBA-Executive Energy MBA",
+    "label": "Price College of Business - Price College of Business - EMBA-Executive Energy MBA"
+  },
+  {
+    "value": "University College - UCOL- University College",
+    "label": "University College - UCOL- University College"
+  },
+  {
+    "value": "Weitzenhoffer Col of Fine Arts - Dance - DANC-Dance",
+    "label": "Weitzenhoffer Col of Fine Arts - Dance - DANC-Dance"
+  },
+  {
+    "value": "Weitzenhoffer Col of Fine Arts - Drama - DRAM-Drama",
+    "label": "Weitzenhoffer Col of Fine Arts - Drama - DRAM-Drama"
+  },
+  {
+    "value": "Weitzenhoffer Col of Fine Arts - Music - BASN-Bassoon",
+    "label": "Weitzenhoffer Col of Fine Arts - Music - BASN-Bassoon"
+  },
+  {
+    "value": "Weitzenhoffer Col of Fine Arts - Music - BASS-Bass",
+    "label": "Weitzenhoffer Col of Fine Arts - Music - BASS-Bass"
+  },
+  {
+    "value": "Weitzenhoffer Col of Fine Arts - Music - CELO-Cello",
+    "label": "Weitzenhoffer Col of Fine Arts - Music - CELO-Cello"
+  },
+  {
+    "value": "Weitzenhoffer Col of Fine Arts - Music - CLAR-Clarinet",
+    "label": "Weitzenhoffer Col of Fine Arts - Music - CLAR-Clarinet"
+  },
+  {
+    "value": "Weitzenhoffer Col of Fine Arts - Music - COMP-Composition",
+    "label": "Weitzenhoffer Col of Fine Arts - Music - COMP-Composition"
+  },
+  {
+    "value": "Weitzenhoffer Col of Fine Arts - Music - EUPH-Euphonium",
+    "label": "Weitzenhoffer Col of Fine Arts - Music - EUPH-Euphonium"
+  },
+  {
+    "value": "Weitzenhoffer Col of Fine Arts - Music - FLUT-Flute",
+    "label": "Weitzenhoffer Col of Fine Arts - Music - FLUT-Flute"
+  },
+  {
+    "value": "Weitzenhoffer Col of Fine Arts - Music - FR H-French Horn",
+    "label": "Weitzenhoffer Col of Fine Arts - Music - FR H-French Horn"
+  },
+  {
+    "value": "Weitzenhoffer Col of Fine Arts - Music - GCRE-Grad Comp Recital",
+    "label": "Weitzenhoffer Col of Fine Arts - Music - GCRE-Grad Comp Recital"
+  },
+  {
+    "value": "Weitzenhoffer Col of Fine Arts - Music - GDMA-Grad Recital DMA",
+    "label": "Weitzenhoffer Col of Fine Arts - Music - GDMA-Grad Recital DMA"
+  },
+  {
+    "value": "Weitzenhoffer Col of Fine Arts - Music - GMER-Grad Mued Recit MME",
+    "label": "Weitzenhoffer Col of Fine Arts - Music - GMER-Grad Mued Recit MME"
+  },
+  {
+    "value": "Weitzenhoffer Col of Fine Arts - Music - GRRE-Graduate Recital - MM",
+    "label": "Weitzenhoffer Col of Fine Arts - Music - GRRE-Graduate Recital - MM"
+  },
+  {
+    "value": "Weitzenhoffer Col of Fine Arts - Music - GTAR-Guitar",
+    "label": "Weitzenhoffer Col of Fine Arts - Music - GTAR-Guitar"
+  },
+  {
+    "value": "Weitzenhoffer Col of Fine Arts - Music - HARP-Harp",
+    "label": "Weitzenhoffer Col of Fine Arts - Music - HARP-Harp"
+  },
+  {
+    "value": "Weitzenhoffer Col of Fine Arts - Music - HPCD-Harpsichord",
+    "label": "Weitzenhoffer Col of Fine Arts - Music - HPCD-Harpsichord"
+  },
+  {
+    "value": "Weitzenhoffer Col of Fine Arts - Music - JRRE-Music Recitals",
+    "label": "Weitzenhoffer Col of Fine Arts - Music - JRRE-Music Recitals"
+  },
+  {
+    "value": "Weitzenhoffer Col of Fine Arts - Music - LDMA-Music Recitals",
+    "label": "Weitzenhoffer Col of Fine Arts - Music - LDMA-Music Recitals"
+  },
+  {
+    "value": "Weitzenhoffer Col of Fine Arts - Music - MUED-Music Education",
+    "label": "Weitzenhoffer Col of Fine Arts - Music - MUED-Music Education"
+  },
+  {
+    "value": "Weitzenhoffer Col of Fine Arts - Music - MULI-Music Literature",
+    "label": "Weitzenhoffer Col of Fine Arts - Music - MULI-Music Literature"
+  },
+  {
+    "value": "Weitzenhoffer Col of Fine Arts - Music - MUNM-Music for Non-Majors",
+    "label": "Weitzenhoffer Col of Fine Arts - Music - MUNM-Music for Non-Majors"
+  },
+  {
+    "value": "Weitzenhoffer Col of Fine Arts - Music - MUSC-Musicology",
+    "label": "Weitzenhoffer Col of Fine Arts - Music - MUSC-Musicology"
+  },
+  {
+    "value": "Weitzenhoffer Col of Fine Arts - Music - MUS-Music",
+    "label": "Weitzenhoffer Col of Fine Arts - Music - MUS-Music"
+  },
+  {
+    "value": "Weitzenhoffer Col of Fine Arts - Music - MUTE-Music Technique",
+    "label": "Weitzenhoffer Col of Fine Arts - Music - MUTE-Music Technique"
+  },
+  {
+    "value": "Weitzenhoffer Col of Fine Arts - Music - MUTH-Music Theory",
+    "label": "Weitzenhoffer Col of Fine Arts - Music - MUTH-Music Theory"
+  },
+  {
+    "value": "Weitzenhoffer Col of Fine Arts - Music - MUTK-Music Technology",
+    "label": "Weitzenhoffer Col of Fine Arts - Music - MUTK-Music Technology"
+  },
+  {
+    "value": "Weitzenhoffer Col of Fine Arts - Music - OBOE-Oboe",
+    "label": "Weitzenhoffer Col of Fine Arts - Music - OBOE-Oboe"
+  },
+  {
+    "value": "Weitzenhoffer Col of Fine Arts - Music - ORGN-Organ",
+    "label": "Weitzenhoffer Col of Fine Arts - Music - ORGN-Organ"
+  },
+  {
+    "value": "Weitzenhoffer Col of Fine Arts - Music - PCUS-Percussion",
+    "label": "Weitzenhoffer Col of Fine Arts - Music - PCUS-Percussion"
+  },
+  {
+    "value": "Weitzenhoffer Col of Fine Arts - Music - PIAN-Piano",
+    "label": "Weitzenhoffer Col of Fine Arts - Music - PIAN-Piano"
+  },
+  {
+    "value": "Weitzenhoffer Col of Fine Arts - Music - RPHD-Music Recitals",
+    "label": "Weitzenhoffer Col of Fine Arts - Music - RPHD-Music Recitals"
+  },
+  {
+    "value": "Weitzenhoffer Col of Fine Arts - Music - SAX-Saxophone",
+    "label": "Weitzenhoffer Col of Fine Arts - Music - SAX-Saxophone"
+  },
+  {
+    "value": "Weitzenhoffer Col of Fine Arts - Music - SRRE-Music Recitals",
+    "label": "Weitzenhoffer Col of Fine Arts - Music - SRRE-Music Recitals"
+  },
+  {
+    "value": "Weitzenhoffer Col of Fine Arts - Music - TRMP-Trumpet",
+    "label": "Weitzenhoffer Col of Fine Arts - Music - TRMP-Trumpet"
+  },
+  {
+    "value": "Weitzenhoffer Col of Fine Arts - Music - TROM-Trombone",
+    "label": "Weitzenhoffer Col of Fine Arts - Music - TROM-Trombone"
+  },
+  {
+    "value": "Weitzenhoffer Col of Fine Arts - Music - TUBA-Tuba",
+    "label": "Weitzenhoffer Col of Fine Arts - Music - TUBA-Tuba"
+  },
+  {
+    "value": "Weitzenhoffer Col of Fine Arts - Music - UGRE-Music Recitals",
+    "label": "Weitzenhoffer Col of Fine Arts - Music - UGRE-Music Recitals"
+  },
+  {
+    "value": "Weitzenhoffer Col of Fine Arts - Music - VIOA-Viola",
+    "label": "Weitzenhoffer Col of Fine Arts - Music - VIOA-Viola"
+  },
+  {
+    "value": "Weitzenhoffer Col of Fine Arts - Music - VIOL-Violin",
+    "label": "Weitzenhoffer Col of Fine Arts - Music - VIOL-Violin"
+  },
+  {
+    "value": "Weitzenhoffer Col of Fine Arts - Music - VOIC-Voice",
+    "label": "Weitzenhoffer Col of Fine Arts - Music - VOIC-Voice"
+  },
+  {
+    "value": "Weitzenhoffer Col of Fine Arts - Musical Theatre - MTHR-Musical Theatre",
+    "label": "Weitzenhoffer Col of Fine Arts - Musical Theatre - MTHR-Musical Theatre"
+  },
+  {
+    "value": "Weitzenhoffer Col of Fine Arts - Visual Arts - A HI-Art History",
+    "label": "Weitzenhoffer Col of Fine Arts - Visual Arts - A HI-Art History"
+  },
+  {
+    "value": "Weitzenhoffer Col of Fine Arts - Visual Arts - ARNM-Art for Non-Majors",
+    "label": "Weitzenhoffer Col of Fine Arts - Visual Arts - ARNM-Art for Non-Majors"
+  },
+  {
+    "value": "Weitzenhoffer Col of Fine Arts - Visual Arts - ART-Art",
+    "label": "Weitzenhoffer Col of Fine Arts - Visual Arts - ART-Art"
+  },
+  {
+    "value": "Weitzenhoffer Col of Fine Arts - Visual Arts - ARTC-Art Theory & Criticism",
+    "label": "Weitzenhoffer Col of Fine Arts - Visual Arts - ARTC-Art Theory & Criticism"
+  },
+  {
+    "value": "Weitzenhoffer Col of Fine Arts - Visual Arts - ARTH-Art Therapy",
+    "label": "Weitzenhoffer Col of Fine Arts - Visual Arts - ARTH-Art Therapy"
+  },
+  {
+    "value": "Weitzenhoffer Col of Fine Arts - Visual Arts - ATC - Art Technology & Culture",
+    "label": "Weitzenhoffer Col of Fine Arts - Visual Arts - ATC - Art Technology & Culture"
+  },
+  {
+    "value": "Weitzenhoffer Col of Fine Arts - Visual Arts - DES - Design",
+    "label": "Weitzenhoffer Col of Fine Arts - Visual Arts - DES - Design"
+  },
+  {
+    "value": "Weitzenhoffer Col of Fine Arts - Weitzenhoffer Col of Fine Arts - F A-College of Fine Arts",
+    "label": "Weitzenhoffer Col of Fine Arts - Weitzenhoffer Col of Fine Arts - F A-College of Fine Arts"
+  }
+]
