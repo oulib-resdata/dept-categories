@@ -1,4 +1,686 @@
-{
-"Centers/Institutes - American Organ Institute":"Centers/Institutes - American Organ Institute",
-"Centers/Institutes - Carl Albert Congressional Research and Studies Center":"Centers/Institutes - Carl Albert Congressional Research and Studies Center"
-}
+[
+  {
+    "Department or Center": "Centers/Institutes - American Organ Institute"
+  },
+  {
+    "Department or Center": "Centers/Institutes - Carl Albert Congressional Research and Studies Center"
+  },
+  {
+    "Department or Center": "Centers/Institutes - Center for Public Management"
+  },
+  {
+    "Department or Center": "Centers/Institutes - Center for Risk and Crisis Management"
+  },
+  {
+    "Department or Center": "Centers/Institutes - Center for Spatial Analysis"
+  },
+  {
+    "Department or Center": "Centers/Institutes - Center for Teaching Excellence"
+  },
+  {
+    "Department or Center": "Centers/Institutes - CIMMS - Cooperative Institute for Mesoscale Meteorological Studies"
+  },
+  {
+    "Department or Center": "Centers/Institutes - Laboratories of Molecular Anthropology and Microbiome Research"
+  },
+  {
+    "Department or Center": "Centers/Institutes - Oklahoma Biological Survey"
+  },
+  {
+    "Department or Center": "Centers/Institutes - Oklahoma Center for Neuroscience"
+  },
+  {
+    "Department or Center": "Centers/Institutes - Oklahoma Geological Survey"
+  },
+  {
+    "Department or Center": "Centers/Institutes - Oklahoma Water Survey"
+  },
+  {
+    "Department or Center": "Centers/Institutes - OU Supercomputing Center for Education & Research"
+  },
+  {
+    "Department or Center": "Centers/Institutes - South Central Climate Adaptation Science Center"
+  },
+  {
+    "Department or Center": "Col of Atmospheric and Geo Sci - Col of Atmospheric and Geo Sci - AGSC-Atmos/Geographic Sci"
+  },
+  {
+    "Department or Center": "Col of Atmospheric and Geo Sci - Geography & Environ Sustain - GEOG-Geog & Environ Sustain"
+  },
+  {
+    "Department or Center": "Col of Atmospheric and Geo Sci - Geography & Environ Sustain - GIS-Geographic Info Science"
+  },
+  {
+    "Department or Center": "Col of Atmospheric and Geo Sci - Geoinformatics - GIS-Geographic Info Science"
+  },
+  {
+    "Department or Center": "Col of Atmospheric and Geo Sci - Meteorology - METR-Meteorology"
+  },
+  {
+    "Department or Center": "Col of International Studies - Education Abroad - INTL-International Courses"
+  },
+  {
+    "Department or Center": "Col of International Studies - International and Area Studies - IAS-International & Area St"
+  },
+  {
+    "Department or Center": "College of Architecture - Architecture Division - ARCH-Architecture"
+  },
+  {
+    "Department or Center": "College of Architecture - Architecture Division - EN D-Environmental Design"
+  },
+  {
+    "Department or Center": "College of Architecture - College of Architecture - PDC-Planning, Design & Constr."
+  },
+  {
+    "Department or Center": "College of Architecture - Construction Science - CNS-Construction Science"
+  },
+  {
+    "Department or Center": "College of Architecture - Interior Design - I D-Interior Design"
+  },
+  {
+    "Department or Center": "College of Architecture - Landscape Architecture - L A-Landscape Architecture"
+  },
+  {
+    "Department or Center": "College of Architecture - Regional and City Planning - RCPL-Regional & City Plan"
+  },
+  {
+    "Department or Center": "College of Arts and Sciences - African and African Am Studies - AFAM-African & African Am St"
+  },
+  {
+    "Department or Center": "College of Arts and Sciences - Anthropology - ANTH-Anthropology"
+  },
+  {
+    "Department or Center": "College of Arts and Sciences - Biology - BIOL-Biology"
+  },
+  {
+    "Department or Center": "College of Arts and Sciences - Biology - PBIO-Plant Biology"
+  },
+  {
+    "Department or Center": "College of Arts and Sciences - Biology - ZOO-Zoology"
+  },
+  {
+    "Department or Center": "College of Arts and Sciences - Biology-Micro & Plant Biology - BIOL-Biology"
+  },
+  {
+    "Department or Center": "College of Arts and Sciences - Chemistry and Biochemistry - CHEM-Chemistry"
+  },
+  {
+    "Department or Center": "College of Arts and Sciences - Classics and Letters - CL C-Classics"
+  },
+  {
+    "Department or Center": "College of Arts and Sciences - Classics and Letters - GRK-Greek"
+  },
+  {
+    "Department or Center": "College of Arts and Sciences - Classics and Letters - LAT-Latin"
+  },
+  {
+    "Department or Center": "College of Arts and Sciences - Classics and Letters - LTRS-Letters"
+  },
+  {
+    "Department or Center": "College of Arts and Sciences - College of Arts and Science - CAS-Coll of Arts & Sciences"
+  },
+  {
+    "Department or Center": "College of Arts and Sciences - College of Arts and Science - PHCH-Public & Community Health"
+  },
+  {
+    "Department or Center": "College of Arts and Sciences - Communication - COMM-Communication"
+  },
+  {
+    "Department or Center": "College of Arts and Sciences - Economics - ECON-Economics"
+  },
+  {
+    "Department or Center": "College of Arts and Sciences - English - ENGL-English"
+  },
+  {
+    "Department or Center": "College of Arts and Sciences - Environmental Studies - ENST-Environmental Studies"
+  },
+  {
+    "Department or Center": "College of Arts and Sciences - Environmental Studies - IPE-Intrdiscp Prsp Envirn"
+  },
+  {
+    "Department or Center": "College of Arts and Sciences - Film and Media Studies - FMS-Film and Media Studies"
+  },
+  {
+    "Department or Center": "College of Arts and Sciences - Film and Media Studies - FVS-Film and Media Studies"
+  },
+  {
+    "Department or Center": "College of Arts and Sciences - Health and Exercise Science - HES-Health and Exercise Sci"
+  },
+  {
+    "Department or Center": "College of Arts and Sciences - History - HIST-History"
+  },
+  {
+    "Department or Center": "College of Arts and Sciences - History of Science - HMS-Health, Med, & Society"
+  },
+  {
+    "Department or Center": "College of Arts and Sciences - History of Science - HSCI-History of Sciences"
+  },
+  {
+    "Department or Center": "College of Arts and Sciences - Human Relations - H R-Human Relations"
+  },
+  {
+    "Department or Center": "College of Arts and Sciences - Library and Info Studies - KM-Knowledge Management"
+  },
+  {
+    "Department or Center": "College of Arts and Sciences - Library and Info Studies - LIS-Library Information St"
+  },
+  {
+    "Department or Center": "College of Arts and Sciences - Mathematics - MATH-Mathematics"
+  },
+  {
+    "Department or Center": "College of Arts and Sciences - Medieval and Renaissance St - MRS-Medieval and Renaissance"
+  },
+  {
+    "Department or Center": "College of Arts and Sciences - Microbiology and Plant Biology - BOT-Botany"
+  },
+  {
+    "Department or Center": "College of Arts and Sciences - Microbiology and Plant Biology - MBIO-Microbiology"
+  },
+  {
+    "Department or Center": "College of Arts and Sciences - Microbiology and Plant Biology - PBIO-Plant Biology"
+  },
+  {
+    "Department or Center": "College of Arts and Sciences - Modern Lang, Lit and Ling - ARAB-Arabic"
+  },
+  {
+    "Department or Center": "College of Arts and Sciences - Modern Lang, Lit and Ling - CHIN-Chinese"
+  },
+  {
+    "Department or Center": "College of Arts and Sciences - Modern Lang, Lit and Ling - FR-French"
+  },
+  {
+    "Department or Center": "College of Arts and Sciences - Modern Lang, Lit and Ling - GERM-German"
+  },
+  {
+    "Department or Center": "College of Arts and Sciences - Modern Lang, Lit and Ling - HEBR-Hebrew"
+  },
+  {
+    "Department or Center": "College of Arts and Sciences - Modern Lang, Lit and Ling - ITAL-Italian"
+  },
+  {
+    "Department or Center": "College of Arts and Sciences - Modern Lang, Lit and Ling - JAPN-Japanese"
+  },
+  {
+    "Department or Center": "College of Arts and Sciences - Modern Lang, Lit and Ling - LING-Linguistics"
+  },
+  {
+    "Department or Center": "College of Arts and Sciences - Modern Lang, Lit and Ling - MLLL-Mod Lang, Lit & Ling"
+  },
+  {
+    "Department or Center": "College of Arts and Sciences - Modern Lang, Lit and Ling - PERS - Persian"
+  },
+  {
+    "Department or Center": "College of Arts and Sciences - Modern Lang, Lit and Ling - PORT-Portuguese"
+  },
+  {
+    "Department or Center": "College of Arts and Sciences - Modern Lang, Lit and Ling - RUSS-Russian"
+  },
+  {
+    "Department or Center": "College of Arts and Sciences - Modern Lang, Lit and Ling - SPAN-Spanish"
+  },
+  {
+    "Department or Center": "College of Arts and Sciences - Native American Studies - CHER-Cherokee"
+  },
+  {
+    "Department or Center": "College of Arts and Sciences - Native American Studies - CHOC-Choctaw"
+  },
+  {
+    "Department or Center": "College of Arts and Sciences - Native American Studies - CREK-Creek"
+  },
+  {
+    "Department or Center": "College of Arts and Sciences - Native American Studies - KIOW-Kiowa"
+  },
+  {
+    "Department or Center": "College of Arts and Sciences - Native American Studies - NAS-Native American Studies"
+  },
+  {
+    "Department or Center": "College of Arts and Sciences - Philosophy - PHIL-Philosophy"
+  },
+  {
+    "Department or Center": "College of Arts and Sciences - Physics and Astronomy - ASTR-Astronomy"
+  },
+  {
+    "Department or Center": "College of Arts and Sciences - Physics and Astronomy - PHYS-Physics"
+  },
+  {
+    "Department or Center": "College of Arts and Sciences - Political Science - NPNG-Nonprofit and Nongov Org"
+  },
+  {
+    "Department or Center": "College of Arts and Sciences - Political Science - P SC-Political Science"
+  },
+  {
+    "Department or Center": "College of Arts and Sciences - Psychology - ODYN-Organizational Dynamics"
+  },
+  {
+    "Department or Center": "College of Arts and Sciences - Psychology - PSY-Psychology"
+  },
+  {
+    "Department or Center": "College of Arts and Sciences - Religious Studies - RELS-Religious Studies"
+  },
+  {
+    "Department or Center": "College of Arts and Sciences - Social Work - S WK-Social Work"
+  },
+  {
+    "Department or Center": "College of Arts and Sciences - Sociology - SOC-Sociology"
+  },
+  {
+    "Department or Center": "College of Arts and Sciences - Women's and Gender Studies - LGBT-LGBTQ Studies"
+  },
+  {
+    "Department or Center": "College of Arts and Sciences - Women's and Gender Studies - W S-Women's Studies"
+  },
+  {
+    "Department or Center": "College of Arts and Sciences - Women's and Gender Studies - WGS-Women's & Gender Studies"
+  },
+  {
+    "Department or Center": "College of Engineering - Aerospace and Mechanical Engr - AME-Aerospace & Mechnical Engr"
+  },
+  {
+    "Department or Center": "College of Engineering - Biomedical Engineering - BIOE-Bioengineering"
+  },
+  {
+    "Department or Center": "College of Engineering - Biomedical Engineering - BME-Biomedical Engineering"
+  },
+  {
+    "Department or Center": "College of Engineering - Chem, Biological and Material - CH E-Chemical Engineering"
+  },
+  {
+    "Department or Center": "College of Engineering - Civil Engr and Environmental - CEES-Civil Engr & Environ Sci"
+  },
+  {
+    "Department or Center": "College of Engineering - Civil Engr and Environmental - E S-Environmental Science"
+  },
+  {
+    "Department or Center": "College of Engineering - College of Engineering - DSA-Data Science and Analytics"
+  },
+  {
+    "Department or Center": "College of Engineering - College of Engineering - ENGR-College of Engineering"
+  },
+  {
+    "Department or Center": "College of Engineering - College of Engineering - EPHY-Engineering Physics"
+  },
+  {
+    "Department or Center": "College of Engineering - Computer Science - C S-Computer Science"
+  },
+  {
+    "Department or Center": "College of Engineering - Electrical and Computer Engr - ECE-Electrical & Computer Eng"
+  },
+  {
+    "Department or Center": "College of Engineering - Electrical and Computer Engr - TCOM-Telecommunications"
+  },
+  {
+    "Department or Center": "College of Engineering - Industrial & Systems Engr - I E-Industrial Engineering"
+  },
+  {
+    "Department or Center": "College of Engineering - Industrial & Systems Engr - ISE-Industrial & Systems Engr"
+  },
+  {
+    "Department or Center": "College of Law - College of Law - ILAW-International Law"
+  },
+  {
+    "Department or Center": "College of Law - College of Law - LAW-Law"
+  },
+  {
+    "Department or Center": "College of Professional & Continuing Studies - Aviation - AVIA-Aviation"
+  },
+  {
+    "Department or Center": "College of Professional & Continuing Studies - Liberal Studies - LSAL-Adminstrative Leadership"
+  },
+  {
+    "Department or Center": "College of Professional & Continuing Studies - Liberal Studies - LSCJ-Criminal Justice"
+  },
+  {
+    "Department or Center": "College of Professional & Continuing Studies - Liberal Studies - LSCS-Cultural Studies"
+  },
+  {
+    "Department or Center": "College of Professional & Continuing Studies - Liberal Studies - LSHA-Lib Studies Health Admin"
+  },
+  {
+    "Department or Center": "College of Professional & Continuing Studies - Liberal Studies - LSIS-Integrated Studies"
+  },
+  {
+    "Department or Center": "College of Professional & Continuing Studies - Liberal Studies - LSLC-Lifespan Care & Admin"
+  },
+  {
+    "Department or Center": "College of Professional & Continuing Studies - Liberal Studies - LSMS-Museum Studies"
+  },
+  {
+    "Department or Center": "College of Professional & Continuing Studies - Liberal Studies - LSPS-Prevention Science"
+  },
+  {
+    "Department or Center": "College of Professional & Continuing Studies - Liberal Studies - LSTD-Liberal Studies"
+  },
+  {
+    "Department or Center": "College of Professional & Continuing Studies - PACS Dean's Office - DENG-Developmental Writing"
+  },
+  {
+    "Department or Center": "College of Professional & Continuing Studies - PACS Dean's Office - DMAT-Developmental Mathematics"
+  },
+  {
+    "Department or Center": "College of Professional & Continuing Studies - PACS Dean's Office - DRDG-Developmental Reading"
+  },
+  {
+    "Department or Center": "Gaylord College of JMC - Gaylord College of JMC - JMC-Journalism & Mass Comm"
+  },
+  {
+    "Department or Center": "Graduate College - Graduate College - GRAD-Graduate College"
+  },
+  {
+    "Department or Center": "Honors College - Honors College - HON-Honors College"
+  },
+  {
+    "Department or Center": "Jeannine Rainbolt Coll of Educ - College of Education - EDUC-College of Education"
+  },
+  {
+    "Department or Center": "Jeannine Rainbolt Coll of Educ - Educ Ldrshp and Policy St - EACS-Ed Admin,Curr & Suprvn"
+  },
+  {
+    "Department or Center": "Jeannine Rainbolt Coll of Educ - Educ Ldrshp and Policy St - EDAH-Adult and Higher Educ"
+  },
+  {
+    "Department or Center": "Jeannine Rainbolt Coll of Educ - Educ Ldrshp and Policy St - EDFN-Social Foundation of Educ"
+  },
+  {
+    "Department or Center": "Jeannine Rainbolt Coll of Educ - Educ Ldrshp and Policy St - EDS-Educational Studies"
+  },
+  {
+    "Department or Center": "Jeannine Rainbolt Coll of Educ - Education Psychology - EDPC-Professional Counseling"
+  },
+  {
+    "Department or Center": "Jeannine Rainbolt Coll of Educ - Education Psychology - EDPY-Educ & Counseling Psy"
+  },
+  {
+    "Department or Center": "Jeannine Rainbolt Coll of Educ - Education Psychology - EDSP-Special Education"
+  },
+  {
+    "Department or Center": "Jeannine Rainbolt Coll of Educ - Education Psychology - EIPT-Instruct Lead Psy & Tech"
+  },
+  {
+    "Department or Center": "Jeannine Rainbolt Coll of Educ - Instr Leadership and Acad Curr - EDEC-Early Childhood Educ"
+  },
+  {
+    "Department or Center": "Jeannine Rainbolt Coll of Educ - Instr Leadership and Acad Curr - EDEL-Elementary Education"
+  },
+  {
+    "Department or Center": "Jeannine Rainbolt Coll of Educ - Instr Leadership and Acad Curr - EDEN-English Education"
+  },
+  {
+    "Department or Center": "Jeannine Rainbolt Coll of Educ - Instr Leadership and Acad Curr - EDLT-Literacy Education"
+  },
+  {
+    "Department or Center": "Jeannine Rainbolt Coll of Educ - Instr Leadership and Acad Curr - EDMA-Mathematics Education"
+  },
+  {
+    "Department or Center": "Jeannine Rainbolt Coll of Educ - Instr Leadership and Acad Curr - EDRG-Reading Education"
+  },
+  {
+    "Department or Center": "Jeannine Rainbolt Coll of Educ - Instr Leadership and Acad Curr - EDSC-Science Education"
+  },
+  {
+    "Department or Center": "Jeannine Rainbolt Coll of Educ - Instr Leadership and Acad Curr - EDSE-Secondary Education"
+  },
+  {
+    "Department or Center": "Jeannine Rainbolt Coll of Educ - Instr Leadership and Acad Curr - EDSS-Social Studies Educ"
+  },
+  {
+    "Department or Center": "Jeannine Rainbolt Coll of Educ - Instr Leadership and Acad Curr - EDWL-World Language Education"
+  },
+  {
+    "Department or Center": "Jeannine Rainbolt Coll of Educ - Instr Leadership and Acad Curr - ILAC-Instr Lead & Acad Curr"
+  },
+  {
+    "Department or Center": "Mewbourne Col of Earth/Energy - Geology and Geophysics - GEOL-Geology"
+  },
+  {
+    "Department or Center": "Mewbourne Col of Earth/Energy - Geology and Geophysics - GPHY-Geophysics"
+  },
+  {
+    "Department or Center": "Mewbourne Col of Earth/Energy - Mewbourne Col of Earth/Energy - CEE-Coll of Earth & Energy"
+  },
+  {
+    "Department or Center": "Mewbourne Col of Earth/Energy - Petroleum and Geological Engr - G E-Geological Engineering"
+  },
+  {
+    "Department or Center": "Mewbourne Col of Earth/Energy - Petroleum and Geological Engr - P E-Petroleum Engineering"
+  },
+  {
+    "Department or Center": "OU - Information Technology (OU IT)"
+  },
+  {
+    "Department or Center": "OU - University Libraries"
+  },
+  {
+    "Department or Center": "OU Tulsa"
+  },
+  {
+    "Department or Center": "OU Tulsa - Office for Research Development & Scholarly Activity"
+  },
+  {
+    "Department or Center": "OU Tulsa - Schusterman Library"
+  },
+  {
+    "Department or Center": "OUHSC - Biostatistics and Epidemiology"
+  },
+  {
+    "Department or Center": "OUHSC - Health Sciences Center"
+  },
+  {
+    "Department or Center": "OUHSC - Pediatrics"
+  },
+  {
+    "Department or Center": "OUHSC - Pharmacy Science"
+  },
+  {
+    "Department or Center": "Price College of Business - Accounting - ACCT-Accounting"
+  },
+  {
+    "Department or Center": "Price College of Business - Energy Management - EMGT-Energy Management"
+  },
+  {
+    "Department or Center": "Price College of Business - Entreprenuer & Economic Dev - ENT-Entrepreneurship"
+  },
+  {
+    "Department or Center": "Price College of Business - Finance - ENGB-Energy for Business"
+  },
+  {
+    "Department or Center": "Price College of Business - Finance - FIN-Finance"
+  },
+  {
+    "Department or Center": "Price College of Business - Finance - L S-Legal Studies"
+  },
+  {
+    "Department or Center": "Price College of Business - Management & Internat Business - ENT-Entrepreneurship"
+  },
+  {
+    "Department or Center": "Price College of Business - Management & Internat Business - L S-Legal Studies"
+  },
+  {
+    "Department or Center": "Price College of Business - Management & Internat Business - MGT-Management"
+  },
+  {
+    "Department or Center": "Price College of Business - Management Information Systems - MIS-Management Info Systems"
+  },
+  {
+    "Department or Center": "Price College of Business - Management Information Systems - MIT-Management Info Technology"
+  },
+  {
+    "Department or Center": "Price College of Business - Marketing and Supply Chain Mgt - B C-Business  Communication"
+  },
+  {
+    "Department or Center": "Price College of Business - Marketing and Supply Chain Mgt - FRAN-Franchising"
+  },
+  {
+    "Department or Center": "Price College of Business - Marketing and Supply Chain Mgt - HCB-Health Care Business"
+  },
+  {
+    "Department or Center": "Price College of Business - Marketing and Supply Chain Mgt - L S-Legal Studies"
+  },
+  {
+    "Department or Center": "Price College of Business - Marketing and Supply Chain Mgt - MKT-Marketing"
+  },
+  {
+    "Department or Center": "Price College of Business - Marketing and Supply Chain Mgt - SCM-Supply Chain Management"
+  },
+  {
+    "Department or Center": "Price College of Business - Price College of Business - B AD-Business Administration"
+  },
+  {
+    "Department or Center": "Price College of Business - Price College of Business - B C-Business  Communication"
+  },
+  {
+    "Department or Center": "Price College of Business - Price College of Business - EMBA-Executive Energy MBA"
+  },
+  {
+    "Department or Center": "University College - UCOL- University College"
+  },
+  {
+    "Department or Center": "Weitzenhoffer Col of Fine Arts - Dance - DANC-Dance"
+  },
+  {
+    "Department or Center": "Weitzenhoffer Col of Fine Arts - Drama - DRAM-Drama"
+  },
+  {
+    "Department or Center": "Weitzenhoffer Col of Fine Arts - Music - BASN-Bassoon"
+  },
+  {
+    "Department or Center": "Weitzenhoffer Col of Fine Arts - Music - BASS-Bass"
+  },
+  {
+    "Department or Center": "Weitzenhoffer Col of Fine Arts - Music - CELO-Cello"
+  },
+  {
+    "Department or Center": "Weitzenhoffer Col of Fine Arts - Music - CLAR-Clarinet"
+  },
+  {
+    "Department or Center": "Weitzenhoffer Col of Fine Arts - Music - COMP-Composition"
+  },
+  {
+    "Department or Center": "Weitzenhoffer Col of Fine Arts - Music - EUPH-Euphonium"
+  },
+  {
+    "Department or Center": "Weitzenhoffer Col of Fine Arts - Music - FLUT-Flute"
+  },
+  {
+    "Department or Center": "Weitzenhoffer Col of Fine Arts - Music - FR H-French Horn"
+  },
+  {
+    "Department or Center": "Weitzenhoffer Col of Fine Arts - Music - GCRE-Grad Comp Recital"
+  },
+  {
+    "Department or Center": "Weitzenhoffer Col of Fine Arts - Music - GDMA-Grad Recital DMA"
+  },
+  {
+    "Department or Center": "Weitzenhoffer Col of Fine Arts - Music - GMER-Grad Mued Recit MME"
+  },
+  {
+    "Department or Center": "Weitzenhoffer Col of Fine Arts - Music - GRRE-Graduate Recital - MM"
+  },
+  {
+    "Department or Center": "Weitzenhoffer Col of Fine Arts - Music - GTAR-Guitar"
+  },
+  {
+    "Department or Center": "Weitzenhoffer Col of Fine Arts - Music - HARP-Harp"
+  },
+  {
+    "Department or Center": "Weitzenhoffer Col of Fine Arts - Music - HPCD-Harpsichord"
+  },
+  {
+    "Department or Center": "Weitzenhoffer Col of Fine Arts - Music - JRRE-Music Recitals"
+  },
+  {
+    "Department or Center": "Weitzenhoffer Col of Fine Arts - Music - LDMA-Music Recitals"
+  },
+  {
+    "Department or Center": "Weitzenhoffer Col of Fine Arts - Music - MUED-Music Education"
+  },
+  {
+    "Department or Center": "Weitzenhoffer Col of Fine Arts - Music - MULI-Music Literature"
+  },
+  {
+    "Department or Center": "Weitzenhoffer Col of Fine Arts - Music - MUNM-Music for Non-Majors"
+  },
+  {
+    "Department or Center": "Weitzenhoffer Col of Fine Arts - Music - MUSC-Musicology"
+  },
+  {
+    "Department or Center": "Weitzenhoffer Col of Fine Arts - Music - MUS-Music"
+  },
+  {
+    "Department or Center": "Weitzenhoffer Col of Fine Arts - Music - MUTE-Music Technique"
+  },
+  {
+    "Department or Center": "Weitzenhoffer Col of Fine Arts - Music - MUTH-Music Theory"
+  },
+  {
+    "Department or Center": "Weitzenhoffer Col of Fine Arts - Music - MUTK-Music Technology"
+  },
+  {
+    "Department or Center": "Weitzenhoffer Col of Fine Arts - Music - OBOE-Oboe"
+  },
+  {
+    "Department or Center": "Weitzenhoffer Col of Fine Arts - Music - ORGN-Organ"
+  },
+  {
+    "Department or Center": "Weitzenhoffer Col of Fine Arts - Music - PCUS-Percussion"
+  },
+  {
+    "Department or Center": "Weitzenhoffer Col of Fine Arts - Music - PIAN-Piano"
+  },
+  {
+    "Department or Center": "Weitzenhoffer Col of Fine Arts - Music - RPHD-Music Recitals"
+  },
+  {
+    "Department or Center": "Weitzenhoffer Col of Fine Arts - Music - SAX-Saxophone"
+  },
+  {
+    "Department or Center": "Weitzenhoffer Col of Fine Arts - Music - SRRE-Music Recitals"
+  },
+  {
+    "Department or Center": "Weitzenhoffer Col of Fine Arts - Music - TRMP-Trumpet"
+  },
+  {
+    "Department or Center": "Weitzenhoffer Col of Fine Arts - Music - TROM-Trombone"
+  },
+  {
+    "Department or Center": "Weitzenhoffer Col of Fine Arts - Music - TUBA-Tuba"
+  },
+  {
+    "Department or Center": "Weitzenhoffer Col of Fine Arts - Music - UGRE-Music Recitals"
+  },
+  {
+    "Department or Center": "Weitzenhoffer Col of Fine Arts - Music - VIOA-Viola"
+  },
+  {
+    "Department or Center": "Weitzenhoffer Col of Fine Arts - Music - VIOL-Violin"
+  },
+  {
+    "Department or Center": "Weitzenhoffer Col of Fine Arts - Music - VOIC-Voice"
+  },
+  {
+    "Department or Center": "Weitzenhoffer Col of Fine Arts - Musical Theatre - MTHR-Musical Theatre"
+  },
+  {
+    "Department or Center": "Weitzenhoffer Col of Fine Arts - Visual Arts - A HI-Art History"
+  },
+  {
+    "Department or Center": "Weitzenhoffer Col of Fine Arts - Visual Arts - ARNM-Art for Non-Majors"
+  },
+  {
+    "Department or Center": "Weitzenhoffer Col of Fine Arts - Visual Arts - ART-Art"
+  },
+  {
+    "Department or Center": "Weitzenhoffer Col of Fine Arts - Visual Arts - ARTC-Art Theory & Criticism"
+  },
+  {
+    "Department or Center": "Weitzenhoffer Col of Fine Arts - Visual Arts - ARTH-Art Therapy"
+  },
+  {
+    "Department or Center": "Weitzenhoffer Col of Fine Arts - Visual Arts - ATC - Art Technology & Culture"
+  },
+  {
+    "Department or Center": "Weitzenhoffer Col of Fine Arts - Visual Arts - DES - Design"
+  },
+  {
+    "Department or Center": "Weitzenhoffer Col of Fine Arts - Weitzenhoffer Col of Fine Arts - F A-College of Fine Arts"
+  }
+]
