@@ -60,6 +60,38 @@
     "label": "Centers/Institutes - South Central Climate Adaptation Science Center"
   },
   {
+    "value": "OU - Information Technology (OU IT)",
+    "label": "OU - Information Technology (OU IT)"
+  },
+  {
+    "value": "OU - University Libraries",
+    "label": "OU - University Libraries"
+  },
+  {
+    "value": "OU - Office of the Provost",
+    "label": "OU - Office of the Provost"
+  },
+  {
+    "value": "OU - Office of Admissions & Recruitment",
+    "label": "OU - Office of Admissions & Recruitment"
+  },
+  {
+    "value": "OU - Division of Enrollment Management",
+    "label": "OU - Division of Enrollment Management"
+  },
+  {
+    "value": "OU - Office of Research Services",
+    "label": "OU - Office of Research Services"
+  },
+  {
+    "value": "OU - Student Affairs",
+    "label": "OU - Student Affairs"
+  },
+  {
+    "value": "OU - OU Online",
+    "label": "OU - OU Online"
+  },
+  {
     "value": "Col of Atmospheric and Geo Sci - Col of Atmospheric and Geo Sci - AGSC-Atmos/Geographic Sci",
     "label": "Col of Atmospheric and Geo Sci - Col of Atmospheric and Geo Sci - AGSC-Atmos/Geographic Sci"
   },
@@ -594,14 +626,6 @@
   {
     "value": "Mewbourne Col of Earth/Energy - Petroleum and Geological Engr - P E-Petroleum Engineering",
     "label": "Mewbourne Col of Earth/Energy - Petroleum and Geological Engr - P E-Petroleum Engineering"
-  },
-  {
-    "value": "OU - Information Technology (OU IT)",
-    "label": "OU - Information Technology (OU IT)"
-  },
-  {
-    "value": "OU - University Libraries",
-    "label": "OU - University Libraries"
   },
   {
     "value": "OU Tulsa",
