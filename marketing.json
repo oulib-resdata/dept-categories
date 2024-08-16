@@ -1,1 +1,100 @@
 
+[
+  {
+    "value": "",
+    "label": ""
+  },
+    {
+    "value": "Colleagues (Forwarded email, word of mouth)",
+    "label": "Colleagues (Forwarded email, word of mouth)"
+  },
+  {
+    "value": "Supervisor (Forwarded email, word of mouth)",
+    "label": "Supervisor (Forwarded email, word of mouth)"
+  },
+  {
+    "value": "Direct Email from OU Libraries Workshop Listserv",
+    "label": "Direct Email from OU Libraries Workshop Listserv"
+  },
+  {
+    "value": "Direct Email from OU Librarian to Departmental Listserv",
+    "label": "Direct Email from OU Librarian to Departmental Listserv"
+  },
+  {
+    "value": "Direct Email from OU Libraries (Source Unknown)",
+    "label": "Direct Email from OU Libraries (Source Unknown)"
+  },
+  {
+    "value": "Class requirement",
+    "label": "Class requirement"
+  },
+  {
+    "value": "OU Libraries website",
+    "label": "OU Libraries website"
+  },
+  {
+    "value": "Departmental/program requirement",
+    "label": "Departmental/program requirement"
+  },
+  {
+    "value": "Personal recommendation from OU Librarian",
+    "label": "Personal recommendation from OU Librarian"
+  },
+  {
+    "value": "Social Media - Twitter",
+    "label": "Social Media - Twitter"
+  },
+  {
+    "value": "Social Media - Facebook",
+    "label": "Social Media - Facebook"
+  },
+  {
+    "value": "Social Media - Instagram",
+    "label": "Social Media - Instagram"
+  },
+  {
+    "value": "Social Media - Other",
+    "label": "Social Media - Other"
+  },
+  {
+    "value": "Digital Signage in a Library Building",
+    "label": "Digital Signage in a Library Building"
+  },
+  {
+    "value": "Digital Signage in Non-Library Building",
+    "label": "Digital Signage in Non-Library Building"
+  },
+  {
+    "value": "Another Libraries Workshop",
+    "label": "Another Libraries Workshop"
+  },
+
+  {
+    "value": "Non-Library Calendar or Newsletter",
+    "label": "Non-Library Calendar or Newsletter"
+  },
+
+  {
+    "value": "Announcement in Class by Librarian",
+    "label": "Announcement in Class by Librarian"
+  },
+
+  {
+    "value": "Announcement in Class by Instructor",
+    "label": "Announcement in Class by Instructor"
+  },
+
+  {
+    "value": "Flyer (Paper or Paper Signage)",
+    "label": "Flyer (Paper or Paper Signage)"
+  },
+
+  {
+    "value": "Flyer (Paper or Digital Unspecified)",
+    "label": "Flyer (Paper or Digital Unspecified)"
+  },
+  {
+    "value": "Other (please describe)",
+    "label": "Other (please describe)"
+  }
+]
